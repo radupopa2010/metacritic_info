@@ -1,6 +1,6 @@
 # metacritic_scraper
 
-Scrape top 10 games Playstation gmaes found at 
+Scrape top 10 PlayStation games found at 
 http://www.metacritic.com/game/playstation-4 and expose result as a REST API.
 
 ## Install
